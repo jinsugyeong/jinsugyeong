@@ -7,7 +7,7 @@
 
 <br><br><br>
 
-　　　　![GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsugyeong&theme=buefy&show_icons=true)　
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsugyeong&theme=buefy&show_icons=true)　
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=su0uu)](https://github.com/mazassumnida/su0uu)
 
 
