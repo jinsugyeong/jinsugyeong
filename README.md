@@ -67,4 +67,3 @@
 [2023/12/13 - (Node.js) MySQL 연결하기](https://everyday-com-eat.tistory.com/129) <br/>
 [2023/12/11 - (Node.js) 입출력 정보 보안](https://everyday-com-eat.tistory.com/128) <br/>
 [2023/12/11 - (Node.js) 템플릿 기능 정리(객체지향), 모듈활용](https://everyday-com-eat.tistory.com/127) <br/>
-[2023/12/11 - (Node.js) 글 수정, 삭제 하기](https://everyday-com-eat.tistory.com/126) <br/>
