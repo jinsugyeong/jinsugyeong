@@ -32,7 +32,7 @@ markdown_text = """
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white">         
         <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> 
 	<img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Flutter-#02569B?style=flat-square&logo=express&logoColor=white"> 
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=express&logoColor=white"> 
     </div><br>
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -48,7 +48,6 @@ markdown_text = """
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
       <img src="https://img.shields.io/badge/JBoss-D0271D?style=flat-square&logo=JBoss&logoColor=white"/>
     </div><br>
-
     <!-- Version Control -->
     <p><strong>Verson Control</strong></p>
     <div>
