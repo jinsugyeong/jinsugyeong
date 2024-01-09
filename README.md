@@ -61,8 +61,8 @@
 <br><br>
 
 ### ![카피바라](capybara.png) Today I Learned
+[2024/01/08 - Dart/ 가위바위보 만들기](https://everyday-com-eat.tistory.com/136) <br/>
+[2024/01/08 - (Dart) 비동기](https://everyday-com-eat.tistory.com/135) <br/>
 [2024/01/07 - (Flutter) Adroid Vitual Devivce 구동하기](https://everyday-com-eat.tistory.com/134) <br/>
 [2024/01/07 - (Flutter) window 개발환경 구축하기](https://everyday-com-eat.tistory.com/133) <br/>
 [2024/01/07 - (Dart) 변수와 타입, Null Safety, 클래스와 생성자](https://everyday-com-eat.tistory.com/132) <br/>
-[2023/12/14 - ( Node.js) mysql 모듈 이용하여 글 목록 조회, 상세조회, 생성, 수정, 삭제 기능(CRUD) 구현](https://everyday-com-eat.tistory.com/131) <br/>
-[2023/12/14 - (Github) README 하단에 블로그 최신 글 목록 출력하기](https://everyday-com-eat.tistory.com/130) <br/>
