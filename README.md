@@ -61,8 +61,8 @@
 <br><br>
 
 ### ![카피바라](capybara.png) Today I Learned
+[2024/02/21 - (Node.js) 코드정리 - DB연결, CRUD 분리하기(모듈화)](https://everyday-com-eat.tistory.com/138) <br/>
+[2024/02/21 - (Node.js) 테이블 조인하여 글 작성시 작성자 선택하거나 수정하기](https://everyday-com-eat.tistory.com/137) <br/>
 [2024/01/08 - Dart/ 가위바위보 만들기](https://everyday-com-eat.tistory.com/136) <br/>
 [2024/01/08 - (Dart) 비동기](https://everyday-com-eat.tistory.com/135) <br/>
 [2024/01/07 - (Flutter) Adroid Vitual Devivce 구동하기](https://everyday-com-eat.tistory.com/134) <br/>
-[2024/01/07 - (Flutter) window 개발환경 구축하기](https://everyday-com-eat.tistory.com/133) <br/>
-[2024/01/07 - (Dart) 변수와 타입, Null Safety, 클래스와 생성자](https://everyday-com-eat.tistory.com/132) <br/>
