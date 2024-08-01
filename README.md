@@ -12,8 +12,7 @@
     <div>
         <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
 	<img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"> 
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white">
-	<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=express&logoColor=white"> 
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"> 
 	<br><img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
         <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">  
         <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
@@ -24,9 +23,7 @@
     <div>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">  
         <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white">         
-        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"> 
-	<img src="https://img.shields.io/badge/express-000000?style=flat-square&logo=express&logoColor=white"> 
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=express&logoColor=white"> 
+        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">   
     </div><br>
     <!-- Database -->
     <p><strong>Database</strong></p>
@@ -54,7 +51,6 @@
     <div>
       <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> 
       <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
-      <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Eclipse IDE&logoColor=white"/> 
 </div><br>
 </div>
 
