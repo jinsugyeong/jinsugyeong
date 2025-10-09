@@ -1,5 +1,7 @@
 
 
+
+
 ### ![카피바라](capybara.png) everyday commit <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsugyeong&show_icons=true&theme=buefy)
@@ -64,3 +66,11 @@
 <br><br>
 
 
+
+### ![카피바라](capybara.png) Today I Learned
+[2025/10/02 - #위클리 페이퍼 10](https://everyday-com-eat.tistory.com/154) <br/>
+[2025/09/06 - #위클리 페이퍼 9](https://everyday-com-eat.tistory.com/153) <br/>
+[2025/09/03 - mac에 git 설치하기](https://everyday-com-eat.tistory.com/152) <br/>
+[2025/08/30 - vscode에서 Jupyter Notebook 실행하기(mac)](https://everyday-com-eat.tistory.com/151) <br/>
+[2025/08/29 - #위클리 페이퍼 8](https://everyday-com-eat.tistory.com/150) <br/>
+[2025/08/22 - #위클리 페이퍼 7](https://everyday-com-eat.tistory.com/149) <br/>
