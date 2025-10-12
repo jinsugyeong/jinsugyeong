@@ -1,14 +1,5 @@
 
 
-
-
-### ![카피바라](capybara.png) everyday commit <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jinsugyeong&show_icons=true&theme=buefy)
-
-
-<br><br>
-
 ### ![카피바라](capybara.png) 사용기술
 <div style="display:flex; flex-direction:column; align-items:flex-start;">
     <!-- Language -->
