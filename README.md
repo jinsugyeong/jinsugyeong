@@ -64,4 +64,3 @@
 [2025/09/03 - mac에 git 설치하기](https://everyday-com-eat.tistory.com/152) <br/>
 [2025/08/30 - vscode에서 Jupyter Notebook 실행하기(mac)](https://everyday-com-eat.tistory.com/151) <br/>
 [2025/08/29 - #위클리 페이퍼 8](https://everyday-com-eat.tistory.com/150) <br/>
-[2025/08/22 - #위클리 페이퍼 7](https://everyday-com-eat.tistory.com/149) <br/>
