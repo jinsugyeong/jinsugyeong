@@ -1,66 +1,57 @@
+# 🐱‍🚀 Analysis & Structure: Converting AI Uncertainty into Assurance
+
+안녕하세요! **분석과 구조를 통해 AI의 불확실성을 확신으로 바꾸는 백엔드 기반 AI 엔지니어, 진수경**입니다.  
+탄탄한 백엔드 시스템 설계 경험을 바탕으로, 실서비스 환경에서 안정적으로 동작하는 AI 파이프라인을 구축합니다.
+
+<br/>
+
+## 🛠 Tech Stack
+
+### **Backend & AI Engineering**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+### **AI Tools & Frameworks**
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge)
+
+<br/>
 
 
-### ![카피바라](capybara.png) 사용기술
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
-    <!-- Language -->
-    <p><strong>Language & lib ... </strong></p>
-    <div>
-		<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
-	    <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"> 
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"> 
-	<br><img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
-        <img src="https://img.shields.io/badge/css-663399?style=flat-square&logo=css&logoColor=white"/>
-        <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-        <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jQuery&logoColor=white"/> 
-    </div><br>
-    <!-- FrameWork -->
-    <p><strong>FrameWork</strong></p>
-    <div>
-		<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
-		<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">  
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring&logoColor=white">         
-        <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">   
-    </div><br>
-    <!-- Database -->
-    <p><strong>Database</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
-        <img src="https://img.shields.io/badge/ORACLE-F80000?style=flat-square&logo=oracle&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Microsoft SQL Server-F80000?style=flat-square&logo=Microsoft-SQL-Server&logoColor=white">
-    </div><br>
-    <!-- Server -->
-    <p><strong>Server</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black">
-        <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
-      	<img src="https://img.shields.io/badge/JBoss-D0271D?style=flat-square&logo=JBoss&logoColor=white"/>
-    </div><br>
-    <!-- Version Control -->
-    <p><strong>Verson Control</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"> 
-        <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"> 
-        <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=seat&logoColor=white"/> 
-    </div><br>
-    <!-- Development Tools -->
-    <p><strong>Development Tools</strong></p>
-    <div>
-		<img src="https://img.shields.io/badge/Google Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white"/>
-		<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white">
-		<img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/> 
-		<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square"/> 
-</div><br>
-</div>
+## 🏆 Key Projects
 
-<br><br>
+### [**1. 소상공인 맞춤형 AI 광고 생성 플랫폼**](https://github.com/shin5290/codeit_ad_smallbiz)
+- **Point:** Backend 오케스트레이터 설계 및 통합 로깅 시스템 구축
+- **Outcome:** 대화 맥락(Context) 관리 로직 구현 및 운영 안정성 확보
+
+### [**2. LangGraph 기반 지능형 B2G RAG 시스템**](https://github.com/Lee-keonhee/codeit_RAG)
+- **Point:** Retriever 구조 설계 및 LangGraph 파이프라인 모듈화
+- **Outcome:** 전략별 청킹 실험을 통한 검색 품질 최적화 및 플러그인 구조 구현
+
+### [**3. 경구약제 이미지 객체 검출(Object Detection)**](https://github.com/Geundol222/pill-snap)
+- **Point:** 데이터 EDA 및 전처리 파이프라인 무결성 확보
+- **Outcome:** 데이터 결함 해결을 통해 **Kaggle Score 0.965 → 0.993** 달성
+
+### [**4. AI 쌍방향 홈트레이닝 시스템**]((https://github.com/codeco33/aihometraining)
+- **Point:** Spring Boot 기반의 풀스택 아키텍처 설계 및 MediaPipe AI 모델과 실시간 데이터 연동 구현
 
 
 
-### ![카피바라](capybara.png) Today I Learned
-[2025/10/24 - #위클리 페이퍼12](https://everyday-com-eat.tistory.com/156) <br/>
-[2025/10/19 - #위클리 페이퍼 11](https://everyday-com-eat.tistory.com/155) <br/>
-[2025/10/02 - #위클리 페이퍼 10](https://everyday-com-eat.tistory.com/154) <br/>
-[2025/09/06 - #위클리 페이퍼 9](https://everyday-com-eat.tistory.com/153) <br/>
-[2025/09/03 - mac에 git 설치하기](https://everyday-com-eat.tistory.com/152) <br/>
+<br/>
+
+## ✍️ Archive
+[![Blog](https://img.shields.io/badge/Tistory-Blog-orange?style=flat-square&logo=tistory&logoColor=white)](https://everyday-com-eat.tistory.com)
+[![GitHub Io](https://img.shields.io/badge/Github.io-Portfolio-blue?style=flat-square&logo=github&logoColor=white)](https://jinsugyeong.github.io)
+
+<br/>
+
+## 📫 Contact
+[![mail](https://img.shields.io/badge/mail-apr15th@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:apr15th@naver.com)
+
+---
+*“실험실의 기술을 현실 세계의 서비스로 구현하는 엔지니어가 되겠습니다.”*
