@@ -37,7 +37,7 @@
 - **Point:** 데이터 EDA 및 전처리 파이프라인 무결성 확보
 - **Outcome:** 데이터 결함 해결을 통해 **Kaggle Score 0.965 → 0.993** 달성
 
-### [**4. AI 쌍방향 홈트레이닝 시스템**]((https://github.com/codeco33/aihometraining)
+### [**4. AI 쌍방향 홈트레이닝 시스템**](https://github.com/codeco33/aihometraining)
 - **Point:** Spring Boot 기반의 풀스택 아키텍처 설계 및 MediaPipe AI 모델과 실시간 데이터 연동 구현
 
 
