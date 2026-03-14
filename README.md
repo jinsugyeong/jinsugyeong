@@ -36,7 +36,7 @@
 
 ## 🏆 Key Projects
 
-### [**1. 북치기박치기: 독서 기록 기반 AI 책 추천 서비스**](https://github.com/jinsugyoeng/bookchiki)
+### [**1. 북치기박치기: 독서 기록 기반 AI 책 추천 서비스**](https://github.com/jinsugyeong/bookchiki)
 - **Point:** 사용자 독서 기록 및 취향 데이터 기반의 AI 추천 파이프라인 설계
 - **Outcome:** 추천 알고리즘(협업/콘텐츠 기반) 도입을 통한 맞춤형 도서 탐색 경험 제공
 
