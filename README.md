@@ -67,5 +67,5 @@
 <br/>
 
 ## 📫 Contact
-[![mail](https://img.shields.io/badge/mail-apr15th@naver.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:apr15th@naver.com)
+[![mail](https://img.shields.io/badge/mail-jinsgmail@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jinsgmail@gmail.com)
 
